@@ -20,6 +20,7 @@
 # Run '$ bundle exec jekyll serve' and go to http://localhost:4000 in your browser.
 
 title: Track Town Software
+author: Chris Hamilton
 email: chris@tracktownsoftware.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website uses the Jekyll static website generator and is hosted 
