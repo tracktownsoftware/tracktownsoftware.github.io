@@ -16,7 +16,7 @@ There's a lot of information available for making your own GitHub Pages blog wit
 The one issue I ran into: The Jekyll static site generator required installing Ruby onto my Windows 10 Pro v1909 computer. RubyInstaller ver 2.7 didn't seem to install correctly, so I uninstalled it and found success with RubyInstaller ver 2.6.
 
 # Development environment for my website
-I use [Visual Studio Code](https://code.visualstudio.com/) to open and edit my GitHub Pages project folder. VSCode supports Git actions by clicking on icons in the project Explorer window, but I prefer typing Git commands into a VSCode terminal Bash window.
+I use [Visual Studio Code](https://code.visualstudio.com/) to open and edit the project folder in my Git local repository. VSCode supports Git actions by clicking on icons in the project Explorer window, but I prefer typing Git commands into a VSCode terminal Bash window.
 
 # Helpful links
 - [What is Github Pages](https://pages.github.com/)
