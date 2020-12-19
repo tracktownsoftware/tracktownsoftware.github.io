@@ -6,7 +6,7 @@ categories: jekyll github
 ---
 
 # New goal for 2021
-Going into 2021 my goal is to share more sample code in Github repositories, and document the *new thing* I learned in a blog. There are development tools and frameworks that I use infrequently, so at minimum my blog will offer a refresher when I have to revisit a project.
+Going into 2021 my goal is to share more sample code in Github repositories, and document what I learned in a blog. There are development tools and frameworks that I use infrequently, so at minimum my blog will offer a refresher when I have to revisit a project.
 
 # Moving my website to GitHub Pages
 Before [GitHub Pages](https://pages.github.com/) I used to host my website on [DiscountASP.NET](https://www.discountasp.net/). I began going down the path of implementing my own blog in ASP.NET but then decided why go to the trouble when I can just host it on GitHub.
