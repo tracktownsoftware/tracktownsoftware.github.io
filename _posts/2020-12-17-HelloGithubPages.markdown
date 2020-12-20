@@ -13,7 +13,7 @@ Before [GitHub Pages](https://pages.github.com/) I hosted my website on [Discoun
 
 There's a lot of information online for making your own GitHub Pages blog with Jekyll, so I won't document the steps here. Below are some useful links to step you through the entire process.
 
-The one issue I ran into: The Jekyll static site generator required installing Ruby onto my Windows 10 Pro v1909 computer. RubyInstaller ver 2.7 didn't seem to install correctly, so I uninstalled it and found success with RubyInstaller ver 2.6.
+The one issue I ran into: Jekyll required installing Ruby onto my Windows 10 computer. RubyInstaller ver 2.7 didn't seem to install correctly, so I uninstalled it and found success with RubyInstaller ver 2.6.
 
 # Development environment for my website
 I use [Visual Studio Code](https://code.visualstudio.com/) to open and edit the project folder in my Git local repository. VSCode supports Git actions by clicking on icons in the project Explorer window, but I prefer typing Git commands into a VSCode terminal Bash window.
