@@ -19,7 +19,7 @@ The one issue I ran into: The Jekyll static site generator required installing R
 I use [Visual Studio Code](https://code.visualstudio.com/) to open and edit the project folder in my Git local repository. VSCode supports Git actions by clicking on icons in the project Explorer window, but I prefer typing Git commands into a VSCode terminal Bash window.
 
 # Helpful links
-- [What is Github Pages](https://pages.github.com/)
+- [What are Github Pages](https://pages.github.com/)
 - [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)
 - [Jekyll Quickstart](https://jekyllrb.com/docs/)
 - [Blogging with Jekyll](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
