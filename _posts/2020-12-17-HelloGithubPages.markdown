@@ -11,7 +11,7 @@ Going into 2021 my goal is to share more sample code in Github repositories, and
 # Moving my website to GitHub Pages
 Before [GitHub Pages](https://pages.github.com/) I used to host my website on [DiscountASP.NET](https://www.discountasp.net/). I began going down the path of implementing my own blog in ASP.NET but then decided why go to the trouble when I can just host it on GitHub.
 
-There's a lot of information available online for making your own GitHub Pages blog with Jekyll, so I won't document the steps here. Below are some useful links to step you through the entire process.
+There's a lot of information online for making your own GitHub Pages blog with Jekyll, so I won't document the steps here. Below are some useful links to step you through the entire process.
 
 The one issue I ran into: The Jekyll static site generator required installing Ruby onto my Windows 10 Pro v1909 computer. RubyInstaller ver 2.7 didn't seem to install correctly, so I uninstalled it and found success with RubyInstaller ver 2.6.
 
@@ -20,6 +20,7 @@ I use [Visual Studio Code](https://code.visualstudio.com/) to open and edit the 
 
 # Helpful links
 - [What is Github Pages](https://pages.github.com/)
+- [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)
 - [Jekyll Quickstart](https://jekyllrb.com/docs/)
 - [Blogging with Jekyll](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
 - [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
