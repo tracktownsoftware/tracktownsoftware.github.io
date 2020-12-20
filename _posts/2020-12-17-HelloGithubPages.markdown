@@ -19,10 +19,10 @@ The one issue I ran into: Jekyll required installing Ruby onto my Windows 10 com
 I use [Visual Studio Code](https://code.visualstudio.com/) to open and edit the project folder in my Git local repository. VSCode supports Git actions by clicking on icons in the project Explorer window, but I prefer typing Git commands into a VSCode terminal Bash window.
 
 # Helpful links
-- [What are Github Pages](https://pages.github.com/)
-- [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)
+- [What are GitHub Pages](https://pages.github.com/)
 - [Jekyll Quickstart](https://jekyllrb.com/docs/)
-- [Blogging with Jekyll](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
+- [Blogging with Jekyll on GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
+- [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)
 - [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [How Git Works](https://www.pluralsight.com/courses/how-git-works)
