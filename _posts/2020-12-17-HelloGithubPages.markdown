@@ -15,7 +15,27 @@ There's a lot of information online for making your own GitHub Pages blog with J
 
 The one issue I ran into: Jekyll required installing Ruby onto my Windows 10 computer. RubyInstaller ver 2.7 didn't seem to install correctly, so I uninstalled it and found success with RubyInstaller ver 2.6.
 
-# Development environment for my website
+# Custom Domain for my Github Pages site
+
+I needed subdomain **www.tracktownsoftware.com** and apex domain **tracktownsoftware.com** to point to my new Github Pages site. 
+
+The subdomain was easy. On DiscountASP.NET I added a DNS CNAME record to point **www.tracktownsoftware.com** to  **tracktownsoftware.github.io** (my Github Pages repository).
+
+The DiscountASP.NET DNS Manager doesn't support ALIAS, ANAME or A records, so **tracktownsoftware.com** still pointed to my old site. My solution was to do a redirect by making an empty "ASP.NET Web application (.NET Framework)" in VS2019 and then adding the index.html below. I deleted the existing files on DiscountASP.NET and then published my simple redirect web application.
+
+```html
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="0; URL='https://www.tracktownsoftware.com'" />
+    <title>Redirect to new www.TrackTownSoftware.com...</title>
+</head>
+<body>
+</body>
+</html>
+```
+
+# Development environment for my Github Pages site
 I use [Visual Studio Code](https://code.visualstudio.com/) to open and edit the project folder in my Git local repository. VSCode supports Git actions by clicking on icons in the project Explorer window, but I prefer typing Git commands into a VSCode terminal Bash window.
 
 # Helpful links
