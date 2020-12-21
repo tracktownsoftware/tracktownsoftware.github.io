@@ -2,13 +2,13 @@
 layout: post
 title:  "Hello Github Pages"
 date:   2020-12-17 13:51:59 -0800
-categories: jekyll github
+categories: jekyll github spreadsheetgear
 ---
 
-# New goal for 2021
-Going into 2021 my goal is to share more sample code in Github repositories, and document what I learned in a blog. There are development tools and frameworks that I use infrequently, so at minimum my blog will offer a refresher when I have to revisit a project.
-
 # Moving my website to GitHub Pages
+
+Going into 2021 I decided to become more active on GitHub and try my hand at a programming blog. When I learn something new I'll try to make a post. I've used the [SpreadsheetGear](https://www.spreadsheetgear.com/) excel-compatible spreadsheet component quite a bit, so there will be many posts on using it.
+
 Before [GitHub Pages](https://pages.github.com/) I hosted my website on [DiscountASP.NET](https://www.discountasp.net/). I began implementing my blog in ASP.NET but then decided it would be simpler to host it on GitHub Pages with the [Jekyll](https://jekyllrb.com/) static site generator.
 
 There's a lot of information online for making your own GitHub Pages blog with Jekyll, so I won't document the steps here. Below are some useful links to step you through the entire process.
