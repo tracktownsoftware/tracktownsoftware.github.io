@@ -26,5 +26,7 @@ I use [Visual Studio Code](https://code.visualstudio.com/) to open and edit the 
 - [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [How Git Works](https://www.pluralsight.com/courses/how-git-works)
+- [VSCode Working with GitHub](https://code.visualstudio.com/docs/editor/github)
+- [VSCode Integrated terminal window](https://code.visualstudio.com/docs/editor/integrated-terminal)
 
 
