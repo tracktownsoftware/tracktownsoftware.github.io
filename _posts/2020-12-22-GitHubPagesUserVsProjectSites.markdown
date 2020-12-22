@@ -33,7 +33,7 @@ You can point to your own custom domain by following these DNS CNAME record inst
 
 After following the above instructions for my tracktownsoftware.github.io repository I can now navigate to **https://www.tracktownsoftware.com** rather than **https://tracktownsoftware.github.io**.
 
-The above change also affects the path to GitHub Pages Project sites. For the mygreatlibrary example I can use **https://www.tracktownsoftware.com/mygreatlibrary** rather than **https://tracktownsoftware.github.io/mygreatlibrary**. You still have the option to set up a custom domain, such as www.mygreatlibrary.com, in the mygreatlibrary repository by following [GitHub's custom domain instructions](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site).
+Adding a custom domain to my tracktownsoftware.github.io repository also affected the path for my GitHub Pages Project sites. For the mygreatlibrary example I can use **https://www.tracktownsoftware.com/mygreatlibrary** rather than **https://tracktownsoftware.github.io/mygreatlibrary**. You still have the option to set up a custom domain, such as www.mygreatlibrary.com, in the mygreatlibrary repository by following [GitHub's custom domain instructions](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site).
 
 # Helpful links
 - [What are GitHub Pages](https://pages.github.com/)
