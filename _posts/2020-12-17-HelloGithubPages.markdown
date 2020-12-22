@@ -7,9 +7,9 @@ categories: jekyll github
 
 # Moving my website to GitHub Pages
 
-Going into 2021 I decided to become more active on GitHub and try my hand at a programming blog. Before [GitHub Pages](https://pages.github.com/) I hosted my website on [DiscountASP.NET](https://www.discountasp.net/). I began implementing my blog in ASP.NET but then decided it would be simpler to host it on GitHub Pages with the [Jekyll](https://jekyllrb.com/) static site generator.
+Going into 2021 I decided to become more active on GitHub and try my hand at a programming blog. Before [GitHub Pages](https://pages.github.com/) I hosted my website on [DiscountASP.NET](https://www.discountasp.net/). I began implementing my blog in ASP.NET but then decided it will be simpler to host it on GitHub Pages with the [Jekyll](https://jekyllrb.com/) static site generator.
 
-There's a lot of information online for making your own GitHub Pages blog with Jekyll, so I won't document the steps here. Below are some useful links to step you through the entire process.
+There's a lot of information online for making your own GitHub Pages blog with Jekyll, so I won't document the steps here. Below are helpful links to step you through the entire process.
 
 The one issue I ran into: Jekyll required installing Ruby onto my Windows 10 computer. RubyInstaller ver 2.7 didn't seem to install correctly, so I uninstalled it and found success with RubyInstaller ver 2.6.
 
