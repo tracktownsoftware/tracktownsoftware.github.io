@@ -27,11 +27,11 @@ After allowing a few minutes to publish you can see your mygreatlibrary Github P
 
 Your default subdomain for all your Github Pages sites is **username.github.io**.
 
-You can point to your own custom domain by following these instructions from Github: [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)
+You can point to your own custom domain by following these DNS CNAME record instructions from Github: [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)
 
-Now I can navigate to my GitHub Pages user site with **https://www.tracktownsoftware.com** rather than **https://tracktownsoftware.github.io**.
+After following the above instructions for my tracktownsoftware.github.io repository I can now navigate to **https://www.tracktownsoftware.com** rather than **https://tracktownsoftware.github.io**.
 
-If I had a mygreatlibrary repository with a GitHub Pages project site the address would be **https://www.tracktownsoftware.com/mygreatlibrary** rather than **https://tracktownsoftware.github.io/mygreatlibrary**.
+The above change also affects the path to GitHub Pages Project sites. For the mygreatlibrary example I can use **https://www.tracktownsoftware.com/mygreatlibrary** rather than **https://tracktownsoftware.github.io/mygreatlibrary**. You still have the option of setting up a custom domain at the Github Pages Project level, such as **www.mygreatlibrary.com**.
 
 # Helpful links
 - [What are GitHub Pages](https://pages.github.com/)
