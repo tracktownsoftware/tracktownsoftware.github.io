@@ -36,7 +36,7 @@ If I had a mygreatlibrary repository with a GitHub Pages project site the addres
 # Helpful links
 - [What are GitHub Pages](https://pages.github.com/)
 - [Jekyll Quickstart](https://jekyllrb.com/docs/)
-- [Gettting started with GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/getting-started-with-github-pages)
+- [Getting started with GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/getting-started-with-github-pages)
 - [Blogging with Jekyll on GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
 - [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)
 - [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
