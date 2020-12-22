@@ -19,9 +19,9 @@ Your other repositories (not named **username.github.io**) can be set up to incl
 
 On GitHub let's say you have a repository containing source code at **https://github.com/username/mygreatlibrary** where username is your username (or organization name) on GitHub.
 
-You can publish documentation about **mygreatlibrary** in the same repository. The default publishing source for a GitHub Pages Project site is the root of the **gh-pages** branch. You will have to add a **gh-pages** branch to your project repository and add your markdown or html/javascript/css documentation files there.
-
-Perhaps a more intuitive approach is add a folder named "docs" to your main or master branch to hold your documentation files. To designate this folder for your GitHub Pages Project site (Github describes this as [choosing a publishing source](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)) go to the repository settings and scroll down to Github Pages Source and select the "docs" folder from the branch where you put it.
+You can publish documentation about **mygreatlibrary** in the same repository.
+- The default publishing source for a GitHub Pages Project site is the root of the **gh-pages** branch. You will have to add a **gh-pages** branch to the **mygreatlibrary** repository and add your markdown or html/javascript/css documentation files there.
+- You can alternatively add a folder named "docs" (or any name) to the **mygreatlibrary** repository main or master branch to hold your documentation files. To designate this folder for your GitHub Pages Project site (Github describes this as [choosing a publishing source](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)) go to the repository settings and scroll down to Github Pages Source and select the "docs" folder from the branch where you put it.
 
 You can see your **mygreatlibrary** Github Pages Project site in a browser by navigating to **https://username.github.io/mygreatlibrary**.
 
