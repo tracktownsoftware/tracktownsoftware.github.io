@@ -15,7 +15,7 @@ The one issue I ran into: Jekyll required installing Ruby onto my Windows 10 com
 
 # Custom Domain for my Github Pages site
 
-I needed subdomain **www.tracktownsoftware.com** and apex domain **tracktownsoftware.com** to point to my new Github Pages site. 
+I needed subdomain **www.tracktownsoftware.com** and apex domain **tracktownsoftware.com** to point to my new Github Pages site.  
 
 The subdomain was easy. On DiscountASP.NET I added a DNS CNAME record to point **www.tracktownsoftware.com** to  **tracktownsoftware.github.io** (my Github Pages repository).
 
@@ -47,5 +47,7 @@ I use [Visual Studio Code](https://code.visualstudio.com/) to open and edit the 
 - [How Git Works (video)](https://www.pluralsight.com/courses/how-git-works)
 - [VSCode Working with GitHub](https://code.visualstudio.com/docs/editor/github)
 - [VSCode Integrated terminal window](https://code.visualstudio.com/docs/editor/integrated-terminal)
+
+test
 
 
