@@ -13,6 +13,8 @@ On GitHub your source code for this site will be the familiar GitHub repository 
 
 What does it mean to be a GitHub Pages site? In a browser when you navigate to **https://username.github.io** then GitHub will try to present the contents of this repository as a static website.
 
+In [Hello GitHub Pages]({% post_url 2020-12-17-HelloGithubPages %}) I wrote about creating a Github Pages User site.
+
 # Project Site
 
 Your other repositories (not named **username.github.io**) can be set up to include a [GitHub Pages Project site](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-github-pages#types-of-github-pages-sites).
