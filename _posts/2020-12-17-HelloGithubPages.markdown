@@ -9,7 +9,7 @@ categories: jekyll github
 
 Going into 2021 I decided to become more active on GitHub and try my hand at a programming blog. Before [GitHub Pages](https://pages.github.com/) I hosted my website on [DiscountASP.NET](https://www.discountasp.net/). I began implementing my blog in ASP.NET but then decided it will be simpler to host it on GitHub Pages with the [Jekyll](https://jekyllrb.com/) static site generator.
 
-There's a lot of information online for making your own GitHub Pages blog with Jekyll, so I won't document the steps here. Below are helpful links to step you through the entire process.
+There's a lot of information online for making your own GitHub Pages blog with Jekyll, so I won't document the steps here. [This post on kiltandcode.com steps you through the entire process.](https://www.kiltandcode.com/2020/04/30/how-to-create-a-blog-using-jekyll-and-github-pages-on-windows/) See my list of helpful links below.
 
 The one issue I ran into: Jekyll required installing Ruby onto my Windows 10 computer. RubyInstaller ver 2.7 didn't seem to install correctly, so I uninstalled it and found success with RubyInstaller ver 2.6.
 
@@ -35,6 +35,15 @@ The DiscountASP.NET DNS Manager doesn't support ALIAS, ANAME or A records, so **
 
 # Development environment for my Github Pages site
 I use [Visual Studio Code](https://code.visualstudio.com/) to open and edit the project folder in my Git local repository. VSCode supports Git actions by clicking on icons in the project Explorer window, but I prefer typing Git commands into a VSCode terminal Bash window.
+
+In the VSCode terminal Bash window you can test your Jekyll website by running the command below. It will respond with a local server address you can click on. In VSCode you can make edits to your site, save and then refresh your browser window to see changes.
+```
+$ jekyll serve
+```
+If the above command doesn't work try using:
+```
+$ bundle exec jekyll serve
+```
 
 # Helpful links
 - [What are GitHub Pages](https://pages.github.com/)
