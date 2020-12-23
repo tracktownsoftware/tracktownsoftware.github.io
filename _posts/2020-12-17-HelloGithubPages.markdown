@@ -48,6 +48,4 @@ I use [Visual Studio Code](https://code.visualstudio.com/) to open and edit the 
 - [VSCode Working with GitHub](https://code.visualstudio.com/docs/editor/github)
 - [VSCode Integrated terminal window](https://code.visualstudio.com/docs/editor/integrated-terminal)
 
-test
-
 
