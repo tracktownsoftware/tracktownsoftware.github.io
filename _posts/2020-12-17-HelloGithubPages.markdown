@@ -15,7 +15,7 @@ The one issue I ran into: Jekyll required installing Ruby onto my Windows 10 com
 
 # Custom Domain for my Github Pages site
 
-I needed subdomain **www.tracktownsoftware.com** and apex domain **tracktownsoftware.com** to point to my new Github Pages site.  
+I needed subdomain **www.tracktownsoftware.com** and apex domain **tracktownsoftware.com** to point to my new Github Pages site. Github explains how to [Manage a custom domain for your GitHub Pages site](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site).
 
 The subdomain was easy. On DiscountASP.NET I added a DNS CNAME record to point **www.tracktownsoftware.com** to  **tracktownsoftware.github.io** (my Github Pages repository).
 
