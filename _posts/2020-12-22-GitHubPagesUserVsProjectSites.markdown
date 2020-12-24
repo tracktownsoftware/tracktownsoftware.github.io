@@ -7,11 +7,11 @@ categories: jekyll github
 
 # User or Organization site
 
-In [Hello GitHub Pages]({% post_url 2020-12-17-HelloGithubPages %}) I wrote about creating a Github Pages User site.
+In [Hello GitHub Pages]({% post_url 2020-12-17-HelloGithubPages %}) I wrote about creating a Github Pages User site to host [www.tracktownsoftware.com](https://www.tracktownsoftware.com).
 
-[Github allows one GitHub Pages User or Organization site per account](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-github-pages#types-of-github-pages-sites). This special GitHub repository must be named in the form **username.github.io** where username is your username (or organization name) on GitHub.
+[GitHub allows one GitHub Pages User or Organization site per account](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-github-pages#types-of-github-pages-sites). This special GitHub repository must be named in the form **username.github.io** where username is your username (or organization name) on GitHub.
 
-On GitHub your source code for this site will be the familiar GitHub repository path **https://github.com/username/username.github.io**.
+On GitHub.com your source code for this site will be the familiar GitHub repository path **https://github.com/username/username.github.io**.
 
 What does it mean to be a GitHub Pages site? In a browser when you navigate to **https://username.github.io** then GitHub will try to present the contents of this repository as a static website.
 
